@@ -840,11 +840,13 @@
       "minecraft:elder_guardian": "2025-09-19 19:36:46 +0800",
       "minecraft:ghast": "2025-09-07 00:04:53 +0800",
       "minecraft:guardian": "2025-09-14 14:43:11 +0800",
+      "minecraft:vindicator": "2025-09-27 01:57:30 +0800",
       "minecraft:magma_cube": "2025-08-12 01:17:51 +0800",
       "minecraft:spider": "2025-08-09 21:29:33 +0800",
       "minecraft:piglin_brute": "2025-09-07 00:24:16 +0800",
       "minecraft:creeper": "2025-08-09 21:29:21 +0800",
       "minecraft:slime": "2025-08-17 14:08:06 +0800",
+      "minecraft:evoker": "2025-09-27 02:05:00 +0800",
       "minecraft:zombified_piglin": "2025-08-30 15:00:39 +0800",
       "minecraft:witch": "2025-08-20 14:38:30 +0800",
       "minecraft:wither_skeleton": "2025-08-17 21:43:16 +0800",
@@ -855,6 +857,7 @@
       "minecraft:enderman": "2025-08-19 14:29:59 +0800",
       "minecraft:silverfish": "2025-09-07 12:58:26 +0800",
       "minecraft:endermite": "2025-09-07 14:46:24 +0800",
+      "minecraft:vex": "2025-09-27 02:06:30 +0800",
       "minecraft:zombie": "2025-08-09 21:52:46 +0800",
       "minecraft:drowned": "2025-08-11 19:48:33 +0800",
       "minecraft:zombie_villager": "2025-08-11 01:23:44 +0800"
@@ -1542,6 +1545,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-09 22:43:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-27 02:06:35 +0800"
     },
     "done": true
   },
@@ -2440,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-09-21 14:43:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-08-10 16:28:24 +0800"
@@ -2518,6 +2533,7 @@
       "spider_eye": "2025-08-09 21:37:01 +0800",
       "pumpkin_pie": "2025-08-18 01:22:43 +0800",
       "bread": "2025-08-09 21:40:47 +0800",
+      "golden_apple": "2025-09-27 02:14:04 +0800",
       "rotten_flesh": "2025-08-16 18:57:06 +0800",
       "melon_slice": "2025-08-19 20:04:58 +0800",
       "golden_carrot": "2025-08-27 23:31:24 +0800",
@@ -3188,6 +3204,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-08-22 01:21:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-09-27 02:01:11 +0800"
     },
     "done": true
   },
