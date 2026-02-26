@@ -1,0 +1,45 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-26 01:12:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-26 01:12:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-26 01:12:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-02-26 01:12:51 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2026-02-26 01:13:22 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-02-26 01:13:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-02-26 01:13:30 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

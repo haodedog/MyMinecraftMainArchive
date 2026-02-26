@@ -347,15 +347,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-01-24 01:31:24 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2026-01-24 01:26:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-01-24 01:31:24 +0800"
     },
     "done": true
   },
@@ -379,6 +379,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:fox": "2026-01-24 10:48:05 +0800",
+      "minecraft:sheep": "2026-01-24 10:45:50 +0800",
       "minecraft:cow": "2026-01-23 23:17:25 +0800"
     },
     "done": false
