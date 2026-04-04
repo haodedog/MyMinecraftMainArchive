@@ -51,6 +51,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2026-03-22 13:35:48 +0800",
       "minecraft:ocean": "2025-12-20 13:55:54 +0800",
       "minecraft:plains": "2025-12-27 19:51:42 +0800"
     },
@@ -230,6 +231,30 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-02-26 01:06:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-03-15 10:34:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-03-15 10:34:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-03-15 10:34:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-03-22 13:35:48 +0800"
     },
     "done": true
   },
