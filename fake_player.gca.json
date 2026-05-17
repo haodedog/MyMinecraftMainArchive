@@ -1,1 +1,11 @@
-{}
+{
+  "BIIITIII": {
+    "actions": {
+      "use": -1,
+      "sneaking": false,
+      "sprinting": false,
+      "forward": 0.0,
+      "strafing": 0.0
+    }
+  }
+}
